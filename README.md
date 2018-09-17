@@ -1,10 +1,15 @@
-Single Page Application based on React+Webpack. Draft version as a POC. 
-Dependencies: Needs Node and npm to be installed
+### Single Page Application based on React+Webpack. (Draft version as a POC.) 
+
+
+**Prerequisites:** 
+Node.js(v8.9.4+), npm(5.6.0+) 
 
 
 
-_npm install_ - build project
+**Quick start guide:** 
 
-_npm start_ - start app with server in browser, acceptable on http://localhost:8080/
+`npm install` - install dependencies
 
-_npm run build_- just rebuild without starting server
+`npm start` - start app with server in browser (on http://localhost:8080/ from the box)
+
+`npm run build` - rebuild without starting server
